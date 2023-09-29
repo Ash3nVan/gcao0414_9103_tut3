@@ -10,8 +10,8 @@
 Audio-driven interactive technology allows the graphic elements to respond to the rhythm and beat of the audio, creating a visual effect that is synchronised with the music. This matches the sense of movement and liveliness conveyed in Mondrian's work, injecting movement and energy into my project.
 
 **Example Images:**
-- [Example 1](https://i.etsystatic.com/13178862/r/il/7ac13b/1444346079/il_570xN.1444346079_4ykx.jpg)
-- [Example 2](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API/Using_Web_Audio_API/violent-theremin.png)
+- ![Example 1](https://i.etsystatic.com/13178862/r/il/7ac13b/1444346079/il_570xN.1444346079_4ykx.jpg)
+- ![Example 2](https://inspirationfeed.com/wp-content/uploads/2020/04/Music-visualizer.jpg)
 
 **Part 2: Coding Technique Exploration**
 
